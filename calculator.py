@@ -13,7 +13,7 @@ print("- For the Division (/)")
 answer = input()
 
 
-# Step 3 parse and decide answer
+# Step 3 parse and decide answer,ask for the parameters
 if (answer == "+") or (answer == "-") or (answer == "/") or ( answer == "*"):
     print("Give the first parameter")
     x= input()
@@ -44,4 +44,4 @@ if result != "":
     print(f'your answer is {result}')
 
     
-#step 4 ask for the parameters
+
