@@ -1,4 +1,4 @@
-x=5
+x=5     
 acumulator=1
 while x > 1:
    acumulator *= x 

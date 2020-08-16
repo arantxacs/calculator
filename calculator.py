@@ -8,7 +8,7 @@ print("- For the sum (+)")
 print("- For the substraction (-)")
 print("- For the multiplication (*)")
 print("- For the Division (/)")
-
+print("- EXIT (s)")
 # Step 2 read and whait for the answer
 answer = input()
 
