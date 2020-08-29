@@ -1,7 +1,9 @@
 import sys
 
 # Step 1 Say Hi and ask for operation.
+answer = None
 while 1 == 1:
+    
     print("Hi user, this is your calculator")
     print("What operation you wanna do?")
     #Comand
